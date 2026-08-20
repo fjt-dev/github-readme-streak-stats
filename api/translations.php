@@ -153,6 +153,15 @@ return [
         "Present" => "Presente",
         "Excluding {days}" => "Excluyendo {days}",
     ],
+    "et" => [
+        "Total Contributions" => "Panuseid kokku",
+        "Current Streak" => "Praegune seeria",
+        "Longest Streak" => "Pikim seeria",
+        "Week Streak" => "Nädala seeria",
+        "Longest Week Streak" => "Pikim nädala seeria",
+        "Present" => "Praeguseni",
+        "Excluding {days}" => "Välja arvatud {days}",
+    ],
     "fa" => [
         "rtl" => true,
         "Total Contributions" => "مجموع مشارکت ها",
@@ -601,7 +610,7 @@ return [
         "Week Streak" => "ہفتہ وار تسلسل",
         "Longest Week Streak" => "طویل ترین ہفتہ وار تسلسل",
         "Present" => "حاظر",
-        "Excluding {days}" => "خارج {days}",
+        "Excluding {days}" => "دن خارج کریں۔ {days}",
         "comma_separator" => "، ",
     ],
     "vi" => [
